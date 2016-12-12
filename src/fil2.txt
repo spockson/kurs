@@ -1,1 +1,2 @@
-hejsan svejsan igen d
+hejsan svejsan igen 
+Nu gör jag ändringar i filen så jag kan göra diff
