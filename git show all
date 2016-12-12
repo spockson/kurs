@@ -1,0 +1,25 @@
+[33mcommit a77f98077f76550e61600514981106a34a35e6eb[m
+Author: Admin <Admin>
+Date:   Mon Dec 12 10:49:04 2016 +0100
+
+     Jag commitar tw
+     o files
+    
+     # Please enter the commit message for your changes. Lines starting
+
+[1mdiff --git a/src/fil1.txt b/src/fil1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e8adee6[m
+[1m--- /dev/null[m
+[1m+++ b/src/fil1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhejsan svejsan igen[m
+\ No newline at end of file[m
+[1mdiff --git a/src/fil2.txt b/src/fil2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5544c4b[m
+[1m--- /dev/null[m
+[1m+++ b/src/fil2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhejsan svejsan igen d[m
+\ No newline at end of file[m
